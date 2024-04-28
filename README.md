@@ -1,5 +1,7 @@
 **Dont forget to add ![/image/star.png](https://github.com/mamin27/ecomet_i2c_raspberry_tools/blob/master/python_test_scripts/display/images/star.png) if you were satisfy with the software!**
 
+# An unexpected failure was detected, the forks are risky, there are envious people, wait for a repository with a much better version
+
 # H616-mangopi (version 1.2)
 DTS file for setting MQ-Quad / MCore-H616 board
 
